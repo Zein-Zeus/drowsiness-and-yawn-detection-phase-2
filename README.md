@@ -31,4 +31,4 @@ Presentation link: [Canva Link](https://www.canva.com/design/DAFwrOxS9hA/lqkn5ii
 
 ![Drowsiness](https://github.com/Zein-Zeus/drowsiness-and-yawn-detection-phase-2/assets/123252432/71e48898-720a-475f-8f21-098d0c65b3c7)
 
-![Yawn](https://github.com/Zein-Zeus/drowsiness-and-yawn-detection-phase-2/assets/123252432/dd7714e1-cfb3-430f-851e-33c138ccda17)
+![Yawn](https://github.com/Zein-Zeus/drowsiness-and-yawn-detection-phase-2/assets/123252432/a5af1f2a-e004-45b4-8715-88cfca91d6ea)
